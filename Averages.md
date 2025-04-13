@@ -154,5 +154,7 @@ If a number is missing in an average problem, use:
 📌 **Weighted Average Concept:**  
 Great for combining averages across groups with different sizes or weights.  
 
+📌 **Fractional(Parts) Average Concept:**   If given average of 6 numbers, and then average of first two, and next two and you have to find average of last two numbers, it would be simple with the formula of: (avg of first two + avg of middle two + avg of last two)/3 = total avg
+
 ---
 😊✨  📚🔥
