@@ -156,7 +156,9 @@ Great for combining averages across groups with different sizes or weights.
 
 📌 **Fractional(Parts) Average Concept:**   If given average of 6 numbers, and then average of first two, and next two and you have to find average of last two numbers, it would be simple with the formula of: (avg of first two + avg of middle two + avg of last two)/3 = total avg
 
-📌 **Fish in the Pond Concept:**   If average of 11 observations, average of first 6 observations, avg of last 6 observations given and have to find the 6th observation, it would be: 6th observation = sum of the first 6 observations + sum of the last 6 observations - sum of the 11 observations
+📌 **Fish in the Pond alone Concept:**   If average of 11 observations, average of first 6 observations, avg of last 6 observations given and have to find the 6th observation, it would be: 6th observation = sum of the first 6 observations + sum of the last 6 observations - sum of the 11 observations
 
+📌 **Fish in the Pond Replacement Concept:**    If average age of 12 men increased by 2 years, when two men whse ages are 20 and 22 are replaced by new members, what is the average age of the new men included? Formula: Change in Average Age = Change in sum of ages / total members   => 2 = (k1+k2) - (20+22) / 12  => 24 = (k1+k2) - 42  => k1+k2 = 66  => avg_age = 66/2 = 33. ; where k1,k2 are the ages of newly replacing men.  [** delta A = delta S / n **]
+  
 ---
 😊✨  📚🔥
