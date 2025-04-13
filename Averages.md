@@ -156,5 +156,7 @@ Great for combining averages across groups with different sizes or weights.
 
 📌 **Fractional(Parts) Average Concept:**   If given average of 6 numbers, and then average of first two, and next two and you have to find average of last two numbers, it would be simple with the formula of: (avg of first two + avg of middle two + avg of last two)/3 = total avg
 
+📌 **Fish in the Pond Concept:**   If average of 11 observations, average of first 6 observations, avg of last 6 observations given and have to find the 6th observation, it would be: 6th observation = sum of the first 6 observations + sum of the last 6 observations - sum of the 11 observations
+
 ---
 😊✨  📚🔥
