@@ -94,7 +94,7 @@ Such an arrangement cannot exist. Therefore, the probability is:
 
 ---
 
-### **6️⃣ ⭐ POWPOP Method 🌟 (Secret from Probability 2.0)**  
+### **6️⃣ ⭐ POWPOP Method 🌟 (Secret from Probability 2.0)**  Check KG .2 PDF
 
 📌 **POWPOP Method**:  
 
